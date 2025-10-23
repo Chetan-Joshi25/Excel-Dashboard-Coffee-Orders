@@ -1,9 +1,5 @@
 # Excel-Dashboards-Coffee-Orders
 
-Worked upon the Coffee sales Dashboard . 
- The dataset has three sheets which consists of three tables i.e. orders , customers and products.
+The Coffee Sales Dashboard was created using data from three sheets — Orders, Customers, and Products. Using XLOOKUP, customer details such as name, email, country, and loyalty card status were pulled into the Orders sheet. INDEX and MATCH functions extracted product attributes like coffee type, roast type, size, and unit price.
 
- Used XLOOKUP function to extract customer name, email id ,country and loyalty card from the Customers sheet to Orders sheet.
- Used INDEX and MATCH functions to extract  coffee type , roast type , size and unit price from the Products table.
-
-Worked upon the following charts:
+The dashboard revealed key trends: seasonal sales peaks (notably for Arabica and Liberica), strong U.S. dominance in total sales (~80%), and balanced spending among top customers (~$280–$317). Robusta showed stable, moderate performance, while Arabica and Liberica displayed greater volatility. A loyalty filter allowed comparisons between regular and loyalty customers, enhancing interactivity and enabling deeper insights into customer behavior and market focus.y vs. non-loyalty groups, guiding marketing strategies.
